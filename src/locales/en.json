@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "About",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "products": "Products"
+  },
+  "home": {
+    "title": "A NEW WAY TO SURVIVE OUTSIDE",
+    "subtitle": "Be prepared for any situation with our premium survival kits.",
+    "cta": "SHOP THE COLLECTION",
+    "favorites": "A few of our FAVORITES"
+  },
+  "about": {
+    "title": "About SurviveWell",
+    "description": "SurviveWell is dedicated to helping you prepare for the unexpected. Our mission is to provide high-quality survival kits and expert advice to ensure you and your loved ones are ready for any situation.",
+    "protection": {
+      "title": "Protection",
+      "description": "Our carefully curated survival kits offer comprehensive protection against various emergencies."
+    },
+    "familyFocused": {
+      "title": "Family-Focused",
+      "description": "We understand the importance of keeping your entire family safe and prepared."
+    },
+    "quickResponse": {
+      "title": "Quick Response",
+      "description": "Our kits are designed for easy access and use, ensuring a swift response in critical situations."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "getInTouch": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "contactInfo": "Contact Information"
+  },
+  "reviews": {
+    "title": "What Our Customers Say"
+  },
+  "products": {
+    "title": "Our Products",
+    "addToCart": "Add to Cart"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signInRequiredForCart": "Please sign in to add items to your cart.",
+    "signInWithGoogle": "Sign In with Google",
+    "signInWithFacebook": "Sign In with Facebook",
+    "signOut": "Sign Out",
+    "emailOrPhone": "Email or Phone Number",
+    "emailOrPhonePlaceholder": "Enter your email or phone number",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "or": "or",
+    "newToSurviveWell": "New to SurviveWell?",
+    "signUp": "Sign Up"
+  }
+}
